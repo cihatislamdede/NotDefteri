@@ -1,7 +1,7 @@
 # not_defteri_uygulamasi
 
-Not tutma uygulamasi
-
+###### Flutter ile geliştirdiğim ilk not tutma uygulamasi
+###### The first note-taking app I developed with Flutter
 ## Screenshots
 
 ![](https://raw.githubusercontent.com/cihatislamdede/NotDefteri/master/Screenshot_1597435933.png)
