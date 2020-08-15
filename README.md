@@ -4,6 +4,7 @@
 ###### The first note-taking app I developed with Flutter
 ## Screenshots
 
+![](https://raw.githubusercontent.com/cihatislamdede/NotDefteri/master/Screenshot_1597490495.png)
 ![](https://raw.githubusercontent.com/cihatislamdede/NotDefteri/master/Screenshot_1597435933.png)
 ![](https://raw.githubusercontent.com/cihatislamdede/NotDefteri/master/Screenshot_1597435936.png)
 
